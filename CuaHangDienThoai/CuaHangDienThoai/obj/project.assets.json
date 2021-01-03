@@ -8224,19 +8224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hongt\\.nuget\\packages\\": {}
+    "C:\\Users\\hungtn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Semester 7\\Công nghệ phần mềm\\Project mẫu\\Nhom24\\ProjectSauKhiSua\\CuaHangDienThoai\\CuaHangDienThoai\\CuaHangDienThoai.csproj",
+      "projectUniqueName": "D:\\SOEN\\MobileStore_CNPM\\CuaHangDienThoai\\CuaHangDienThoai\\CuaHangDienThoai.csproj",
       "projectName": "CuaHangDienThoai",
-      "projectPath": "E:\\Semester 7\\Công nghệ phần mềm\\Project mẫu\\Nhom24\\ProjectSauKhiSua\\CuaHangDienThoai\\CuaHangDienThoai\\CuaHangDienThoai.csproj",
-      "packagesPath": "C:\\Users\\hongt\\.nuget\\packages\\",
-      "outputPath": "E:\\Semester 7\\Công nghệ phần mềm\\Project mẫu\\Nhom24\\ProjectSauKhiSua\\CuaHangDienThoai\\CuaHangDienThoai\\obj\\",
+      "projectPath": "D:\\SOEN\\MobileStore_CNPM\\CuaHangDienThoai\\CuaHangDienThoai\\CuaHangDienThoai.csproj",
+      "packagesPath": "C:\\Users\\hungtn\\.nuget\\packages\\",
+      "outputPath": "D:\\SOEN\\MobileStore_CNPM\\CuaHangDienThoai\\CuaHangDienThoai\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hongt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hungtn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8315,7 +8315,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
